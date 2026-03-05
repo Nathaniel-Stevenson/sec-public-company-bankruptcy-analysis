@@ -13,7 +13,10 @@ Filings by court/state (ranked)
 <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/abff2774-b32b-428a-8104-e29be912889b" />
 
 Total assets, total liabilities by year and by court/state
--New York is 80% of all assets, 85% of all liabilities
+-Top 5 states compose 98% of total assets AND 98% of total liabilities
+-New York alone composes the majority of total assets and liabilities in bankruptcy filings. New York has about 80% of all assets and about 85% of all liabilities
+-Top 5 of assets is 98%
+-There is a long tail
 
 <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/2ea8341a-87f1-4ce0-a13c-d8fa3bea0c30" />
 
