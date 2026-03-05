@@ -8,12 +8,15 @@ Filings per year (trend)
 <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/3ad9be86-7ffb-4333-8151-d11e74fd81d7" />
 
 Filings by court/state (ranked)
--
-<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/0c6b5820-1b39-48a9-bd6f-6b43dc4f87e4" />
+-Total filings skews heavily towards a handful of states. Namely the top 5 states contain about 70% of all filings across the country
+-There is a long tail
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/abff2774-b32b-428a-8104-e29be912889b" />
 
 Total assets, total liabilities by year and by court/state
+-New York is 80% of all assets, 85% of all liabilities
 
-<img width="580" height="652" alt="image" src="https://github.com/user-attachments/assets/551317e6-20a9-45c1-b430-14cbde785e7b" />
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/2ea8341a-87f1-4ce0-a13c-d8fa3bea0c30" />
+
 
 
 Median/P90 assets/liabilities by year (scale shift)
