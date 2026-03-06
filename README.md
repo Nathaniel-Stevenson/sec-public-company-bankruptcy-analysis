@@ -22,7 +22,7 @@
 ## Median/P90 assets/liabilities by year
 - Median assets remained stable, rising slightly over time
 - Median liabilities increased in 2010 but sharply declined the following year
-<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/ba22d81d-425b-4d24-b623-c8984d57d666" />
 * P90 Assets and liabilities dramatically decreased in 2010 and 2011
 * When considering the trends in medians, this suggests 2009 had uniquely large filings but the typical filing was relatively unchanged
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/ba22d81d-425b-4d24-b623-c8984d57d666" />
 <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/b2061ab3-6d3c-4912-a73c-278d00d0bb1e" />
