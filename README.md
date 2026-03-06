@@ -1,9 +1,9 @@
 # sec-public-company-bankruptcy-analysis
 
 ## Filings per year (trend)
--2009 has twice the filings than the 2 successive years
--2010 and 2011 are nearly equal to one another
--Dataset contains bankruptcy filings across only 3 years. This limits the usability of the dataset for explaining or predicting yearly trends
+*2009 has twice the filings than the 2 successive years
+*2010 and 2011 are nearly equal to one another
+*Dataset contains bankruptcy filings across only 3 years. This limits the usability of the dataset for explaining or predicting yearly trends
 
 <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/3ad9be86-7ffb-4333-8151-d11e74fd81d7" />
 
