@@ -24,4 +24,9 @@ Total assets, total liabilities by year and by court/state
 
 Median/P90 assets/liabilities by year (scale shift)
 
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/b2061ab3-6d3c-4912-a73c-278d00d0bb1e" />
+
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/ba22d81d-425b-4d24-b623-c8984d57d666" />
+
+
 Top 20 cases by assets/liabilities (table)
