@@ -1,4 +1,7 @@
 # sec-public-company-bankruptcy-analysis
+## Overview
+This is an exploration of a dataset made available by the Securities and Exchange Commission of public companies filing for bankruptcy between the fiscal years 2009-2011. This project leans into using charts to demonstrate findings. Overall, the project finds a strong concentration and skew in bankruptcies. A small number of states dominate activity - namely Delaware is a leader in filing volume and New York accounts for the majority of total assets and liabilties. This lends credance that large outlier cases drive much of the overall scale while typical filings are relatively small.
+Dataset source: https://catalog.data.gov/dataset/public-company-bankruptcy-cases-opened-and-monitored
 
 ## Filings per year (trend)
 * 2009 has twice the filings than the 2 successive years
